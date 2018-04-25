@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `npm install`
+`npm install` and 
 Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 
@@ -27,6 +27,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ![Image of search result](https://github.com/annaimaha/search-around-you/blob/master/src/assets/images/mapquest.png)
 
 
-
-![Image of selected POI]
-(https://github.com/annaimaha/search-around-you/blob/master/src/assets/images/selected-location.png)
+![Image of selected POI](https://github.com/annaimaha/search-around-you/blob/master/src/assets/images/selected-location.png)
