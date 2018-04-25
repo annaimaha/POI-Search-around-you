@@ -1,0 +1,19 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div>
+    <h1>{{about}}</h1>
+  <h2>
+     {{ title }}!
+  </h2>
+  <div class="map-area">        
+      
+      <input type="text" (keyup)="keyUp.next($event.target.value)">
+      <ul *ngIf="autocompleteInterest">
+       <li *ngFor="let item of collections"><a (click)="selectMarkerLocation(item)">{{item.name}}</a></li>
+      </ul>      
+    <div id="markdplaces" style="height:500px">      
+    </div>
+  </div>
+  
+</div>
+
+
