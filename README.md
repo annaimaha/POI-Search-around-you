@@ -1,4 +1,4 @@
-# Search around me / Point of Interest
+# Search around you / Point of Interest
 
 A point of interest, or POI, is a specific point location that someone may find useful or interesting
 
@@ -24,7 +24,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## How it will work 
 
-![Image of initial landing](https://github.com/annaimaha/search-around-you/blob/master/src/assets/images/mapquest.png)
+![Image of search result](https://github.com/annaimaha/search-around-you/blob/master/src/assets/images/mapquest.png)
 
 
-![Image of initial landing](https://github.com/annaimaha/search-around-you/blob/master/src/assets/images/selected-location.png)
+
+![Image of selected POI]
+(https://github.com/annaimaha/search-around-you/blob/master/src/assets/images/selected-location.png)
